@@ -17,7 +17,7 @@ in hard disk when uncompressed. This needs to be done only once.
 After the above three steps: copy and paste the displayed URL that starts with `http://127.0.0.1:8888` into
 your browser. If you save the changes to the notebook, they are saved locally.
 As you go through the course, you will have to do `git pull` in the
-`cs3100_o23` directory to get the latest updates from upstream.
+`cs3100_o24` directory to get the latest updates from upstream.
 
 ## Linux
 
@@ -25,7 +25,7 @@ On Linux, you need at least 5GB free space in the partition in which `/var` live
 And you need to run the docker command with `sudo`:
 
 ```bash
-$ sudo docker run -it -p 8888:8888 -v "$(pwd)":/cs3100_o23 kartiknagar/cs3100_o23:latest
+$ sudo docker run -it -p 8888:8888 -v "$(pwd)":/cs3100_o24 kartiknagar/cs3100_o23:latest
 ```
 
 # Windows
