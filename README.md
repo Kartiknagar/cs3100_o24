@@ -34,6 +34,6 @@ In some windows machines you may have to install `wsl 2`. Follow only `step 4` f
 For running the docker step, on Windows, you need to run the docker command as follows:
 
 ```bash
-$ docker run -it -p 8888:8888 -v PATH:/cs3100_o23 kartiknagar/cs3100_o23:latest
+$ docker run -it -p 8888:8888 -v PATH:/cs3100_o24 kartiknagar/cs3100_o23:latest
 ```
 where `PATH` in the command should be replaced with the location you cloned the git repo into in the above steps
