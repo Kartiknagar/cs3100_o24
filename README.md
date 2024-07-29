@@ -1,4 +1,4 @@
-# CS3100: Paradigms of Programming (2023)
+# CS3100: Paradigms of Programming (2024)
 
 ## Running the Jupyter notebooks
 
